@@ -6,7 +6,7 @@ authors = [
     {name = "V4N5HM",email = "s4820705@student.uq.edu.au"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "flask (>=3.1.0,<4.0.0)"
 ]
